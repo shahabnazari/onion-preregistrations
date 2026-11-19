@@ -19,3 +19,4 @@ Times are UTC. "Source commit" is the commit of the file in our (private) develo
 | 2026-11-19T20:54Z | preregistration.json (amended: frozen sample hashes, SciFact pair set, run-open protocol) | af19841f6611a6165a76f89406dea59833ace903d5f0287954ba57ad182e8cd3 | 0fa6b15081eaaddbe12ff1648bca0b7b424b42f0 |
 | 2026-11-19T21:06Z | preregistration.json (amended: adds the planted absence-claims rule) | 731c6da9d5ec5a5ed699ad53cebc1392335f9c2593690ae812dda33662f5786b | 6042e6e3fff9b88899d676c920e8a56910931fe2 |
 | 2026-11-19T21:10Z | preregistration.json (amended: planted absence-claims rule, version 2) | 140f9a3ef541dba3a42b4a4d820802f5caede0fac677693de8220f5731458c93 | 92480a169cd62cf2198779511150f7a307cd1aa9 |
+| 2026-11-19T21:27Z | preregistration.json (amended: planted absence-claims rule, version 3) | ed485e55b5e2dd141a73fca8647d7d098f0163db2294842f1d73d2632f41ff2f | 0398ec5ab6d450bd784c0f164b0d0e9b217d7ece |
