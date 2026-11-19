@@ -17,3 +17,4 @@ Times are UTC. "Source commit" is the commit of the file in our (private) develo
 | --- | --- | --- | --- |
 | 2026-11-19T20:50Z | preregistration.json | 2c7aa7e6532a29033565579019ddfbcdd1e5676a2a439b6afef89fb6c57c54cc | ff9ea1d4fba41e74ae08303029cbec7323fd5c42 |
 | 2026-11-19T20:54Z | preregistration.json (amended: frozen sample hashes, SciFact pair set, run-open protocol) | af19841f6611a6165a76f89406dea59833ace903d5f0287954ba57ad182e8cd3 | 0fa6b15081eaaddbe12ff1648bca0b7b424b42f0 |
+| 2026-11-19T21:06Z | preregistration.json (amended: adds the planted absence-claims rule) | 731c6da9d5ec5a5ed699ad53cebc1392335f9c2593690ae812dda33662f5786b | 6042e6e3fff9b88899d676c920e8a56910931fe2 |
