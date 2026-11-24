@@ -11,6 +11,7 @@ Times are UTC. "Source commit" is the commit of the file in our (private) develo
 | 2026-11-19T20:26Z | test-extension.ids.txt | a415544b092bd23f7f54f1596550ff290b751c88aef87d033a25d6bc73447457 | b31344b5772b8c005aadb2f90304c913ff6d030d |
 | 2026-11-19T20:26Z | sample-manifest.json | 3d73ceb2279dbe917b7025a4e6f61c9d3466896a9bb4ddc73907400e8c61f93c | 1e20136504bb1f1d7ab385b5d3f6140fde07a7b0 |
 | 2026-11-20T03:07Z | PREREGISTRATION.md (amended) | 2e90fee0253aa7af59ea1af6f76fc81566be426ec8e66e2c36ea4d8bc84baf32 | d617fae3dbc9e2d7f0f3ca1b71cbff459219dcda |
+| 2026-11-24T03:01Z | PREREGISTRATION.md (amended: full-stack crossover fs1) | 062630c7a8f00bd8b138d49cb6884e0423ec273ab22a1601915d92049e760869 | 235d3b202618fc0b3f26d6f2815bbca476b344a2 |
 
 ## Trust checks: pass rules (evidence reach, judge non-inferiority on SciFact)
 
